@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS inspired by the '90s legends.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | macOS 10.11 El Capitan |
+| **Processor** | Min: 2.4GHZ Dual Core Processor Or Higher / Rec: 2.4 GHZ Quad Core Processor Or Higher | 2.2GHZ Dual Core Processor Or Higher |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **Graphics** | Min: GeForce 9800GT Or Equivalent / Rec: Geforce GTX 460 Or Equivalent | 512MB VRAM Or Greater |
+| **DirectX** | Version 9.0 | Version 9.0 |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 7 Or Later | Windows 7 Or Later |
+| **Additional Notes** | Min: 64-bit Recommended, 32-bit Supported / Rec: Don't go in the ruins. | Requires a 64-bit OS |
 
 ---
 
